@@ -1,15 +1,39 @@
 {
-    "content": [
-        {
-            "color": "lightpink",
-            "author": "Magikarp",
-            "text": "This is a note!!!",
-            "id": 1
-        }
-    ],
-    "users":[
-        {
-        "name":"Magikarp"
-        }
-    ]
+  "content": [
+    {
+      "color": "goldenrod",
+      "author": "magikarp",
+      "text": "Magikarp is a cool pokemon\n<br>\n<img src=\"https://static.wikia.nocookie.net/sonicpokemon/images/1/1f/Magikarp_AG_anime.png/revision/latest?cb=20130520060359\" style=\"width:200px\">",
+      "id": 1
+    },
+    {
+      "color": "cornflowerblue",
+      "author": "magikarp",
+      "text": "I made this cool app to take notes\n\n<h1>you can create, read, update, and delete notes!</h1>",
+      "id": 2
+    },
+    {
+      "author": "magikarp",
+      "color": "lightpink",
+      "text": "You can change colors of your notes\n\n<h1>there's a lot of cool colors</h1>",
+      "id": 3
+    },
+    {
+      "color": "tomato",
+      "author": "magikarp",
+      "text": "<h2>This app was created with:</h2>\n<ul>\n<li>Vanilla JS</li>\n<li>HTML</li>\n<li>CSS</li>\n<li>JSON Server</li>\n</ul>",
+      "id": 4
+    },
+    {
+      "author": "magikarp",
+      "color": "violet",
+      "text": "This note is\n<h1>PURPLE!</h1>",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "magikarp"
+    }
+  ]
 }
