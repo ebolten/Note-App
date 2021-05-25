@@ -1,0 +1,15 @@
+{
+    "content": [
+        {
+            "color": "lightpink",
+            "author": "Magikarp",
+            "text": "This is a note!!!",
+            "id": 1
+        }
+    ],
+    "users":[
+        {
+        "name":"Magikarp"
+        }
+    ]
+}
